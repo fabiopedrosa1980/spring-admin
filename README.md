@@ -1,6 +1,6 @@
 # Spring Boot Admin
 
-## Monitorando os seus Microserviços
+## Monitorando seus Microserviços Spring Boot
 
 ## Configuração
 
