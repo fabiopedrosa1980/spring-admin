@@ -11,11 +11,14 @@
 - management.endpoint.health.show-details=always
 
 ### pom.xml
+<code>
  <dependency>
     <groupId>de.codecentric</groupId>
     <artifactId>spring-boot-admin-starter-client</artifactId>
     <version>2.1.6</version>
 </dependency>
+</code>
+ 
 
 ## Documentação
 https://codecentric.github.io/spring-boot-admin/current/
