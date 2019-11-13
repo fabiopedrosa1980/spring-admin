@@ -7,7 +7,7 @@
 ### application.properties
 ```
 spring.boot.admin.client.url=http://localhost:8080
-spring.boot.admin.client.instance.name=teste-leroy
+spring.boot.admin.client.instance.name=seu-app
 management.endpoints.web.exposure.include=*
 management.endpoint.health.show-details=always
 ```
